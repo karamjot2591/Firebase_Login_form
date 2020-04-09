@@ -42,6 +42,7 @@
             android:layout_height="wrap_content"
             android:hint="Email"
             android:maxLines="1"
+            android:inputType="textEmailAddress"
             android:lines="1"
             android:textColorHint="@color/textcolor"
             />
